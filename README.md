@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Satu Sirviö and I am an information technology student at LAB University of Applied Sciences.
+
 <!--
 **satusip/satusip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
